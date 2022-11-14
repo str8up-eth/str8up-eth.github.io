@@ -1,7 +1,7 @@
 const typedTextSpan = document.querySelector(".typed-text");
 const cursorSpan = document.querySelector(".cursor");
 
-const textArray = ["Web3 Investment Analyst.","Crypto Researcher.", "Chainlink Community Advocate.", "NFT Enthusiast."];
+const textArray = ["Web3 Analyst.","Crypto Researcher.", "Chainlink Advocate.", "NFT Enthusiast."];
 const typingDelay = 120;
 const erasingDelay = 50;
 const newTextDelay = 500; // Delay between current and next text
